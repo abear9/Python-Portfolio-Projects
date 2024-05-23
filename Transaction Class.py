@@ -1,7 +1,4 @@
-#Author: Andrew Hebert
-#Assignment Number & Name: Final Project - TransactionItem Class
-#Due Date: N/A
-#Program Description: This file contains one of the necessary classes for the final project in MIS 380P, TransactionItem. On this class, there are 4 attributes with getter and setter methods
+#Program Description: This file contains one of the necessary classes for the inventory management system, TransactionItem. On this class, there are 4 attributes with getter and setter methods
 #for each attribute. There is also a method for calculating the cost of an item order, which takes the desired quantity and multiplies it by the item price. 
 
 
