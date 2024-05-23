@@ -1,7 +1,4 @@
-#Author: Andrew Hebert
-#Assignment Number & Name: Final Project - Main
-#Due Date: N/A
-#Program Description: This file contains the main function for the final project. Prior to any data collection, this function sets up the necessary data structures and 
+#Program Description: This file contains the main function for the inventory management system. Prior to any data collection, this function sets up the necessary data structures and 
 #creates a list of objects for the content of the inventory file. Then, it loops through asking the user for the product ID they would like to purchase, until they 
 #enter 0 to exit the program. If a valid ID is entered, the program asks the user for the desired quantity. That quantity is added to an invoice list of transaction objects,
 #which accumulates objects until the user is done. Finally, an invoice is displayed and the totals are calculated. 
