@@ -1,7 +1,4 @@
-#Author: Andrew Hebert
-#Assignment Number & Name: Final Project - Inventory Class
-#Due Date: N/A
-#Program Description: This file contains one of the necessary classes for the final project in MIS 380P, Inventory. On this class, there are 4 attributes and getter methods
+#Program Description: This file contains one of the necessary classes for the inventory management system, Inventory. On this class, there are 4 attributes and getter methods
 #for each attribute. There are also methods for restock and purchase, which validate a quantity and update stock accordingly. 
 
 #class for inventory
