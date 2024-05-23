@@ -1,6 +1,3 @@
-#Author: Andrew Hebert
-#Assignment Number & Name: Final Project - Validation Class
-#Due Date: N/A
 #Program Description: This file contains a validation class for user inputs to be checked and to make sure the desired ID number exists in the inventory. 
 #This class has no attributes, just functions to verify and validate values. 
 
